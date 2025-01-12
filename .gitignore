@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+
+# Flask session files
+instance/
+*.sqlite3
+*.db
+
+# Logs and debug files
+*.log
+*.pid
+*.out
+*.err
+
+# Cache
+.cache/
+*.pytest_cache/
+
+# Editor and IDE files
+.vscode/
+.idea/
